@@ -1,3 +1,5 @@
+<img width="1898" height="907" alt="image" src="https://github.com/user-attachments/assets/97bc1866-2b6e-407b-9fa8-7abbdd930c50" />
+
 # Mangalam HDPE Pipes – Premium Product Website
 
 A modern, responsive single-page website for **Mangalam HDPE Pipes**, built as an assignment project for **Gushwork**.
