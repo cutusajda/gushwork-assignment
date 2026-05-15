@@ -2523,8 +2523,8 @@ body.sticky-on .navbar {
   inset: 0;
   backdrop-filter: blur(
     7px
-  ); /* Increased from 4px to 8px for more noticeable blur */
-  -webkit-backdrop-filter: blur(181px); /* Added for Safari support */
+  );
+  -webkit-backdrop-filter: blur(181px);
   opacity: 0;
   transition: opacity 0.3s ease;
 }
